@@ -12,7 +12,7 @@ Computer science at Penn, B.S. plus an accelerated M.S. in Machine Learning and 
 
 ## Stack
 
-Python, TypeScript, Rust, FastAPI, Node.js, React, React Native, Postgres (Supabase), NumPy, pandas, scikit-learn, Terraform, AWS, Docker. Claude API and Vapi.
+Python, TypeScript, Rust, FastAPI, Node.js, React, React Native, Postgres (Supabase), NumPy, pandas, scikit-learn, Terraform, AWS, Docker, Claude API, and Vapi.
 
 ## Contact
 
